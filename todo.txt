@@ -1,0 +1,16 @@
+Biblioteca react-router-dom (X)
+Biblioteca axios (x)
+	(encadeamento opcional) (x)
+Endpoint /produtos (x)
+Utilizar css grid na página inteira
+Animação css (simbolo de carregamento) + animações extras + animação nos botões (x)
+Validação dos formularios (post, put)
+Usar estrutura MVC (x)
+Uma utilização do hook useEffect. (x)
+
+
+Páginas:
+Home
+Estoque (X)
+Contato
+Login / Cadastro
