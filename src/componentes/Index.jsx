@@ -1,4 +1,4 @@
-import '../css/index.css';
+import '../css/Index.css';
 import { useEffect } from 'react';
 import useFullPageLoader from './FullPageLoader/useFullPageLoader';
 
